@@ -1,4 +1,8 @@
------BEGIN PGP PUBLIC KEY BLOCK-----
+Write websites in COBOL, why not?
+
+<details>
+  <summary>PGP Key</summary>
+  -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGjd7DUBEADDeEYZO1AHnaA4qjSdUlyN2tH/+Rr7CWExvu3EAw2paNeLDMJi
 XUXHC3Xp+LsZQQzA2qJjvlBjI//6VBV8FZPHX+/IxYMzzYbFySc8Ysk8aXF2UM0U
@@ -50,6 +54,7 @@ dqeT1m3JV/y9L8VjtVQAT4NmgTxj1vfmWhSOmVGRYpqnKnIly8WeSCkjxcFJ/nQq
 g+QOxA3QYGwDqvzHduupmzsIRq1QROqp90kw7oMdxA==
 =+faH
 -----END PGP PUBLIC KEY BLOCK-----
+</details>
 
 <!---
 BalakeKarbon/BalakeKarbon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
