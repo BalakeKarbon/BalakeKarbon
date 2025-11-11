@@ -1,4 +1,7 @@
-Write websites in COBOL, why not?
+# I'm Blake!
+A full-stack++ software developer, hardware designer, and vintage computing enthusiast with a knack for solving complex problems.
+
+Please view this [web-portfolio](https://BalakeKarbon.github.io) for more information including contact information.
 
 <details>
   <summary>PGP Key</summary>
